@@ -5,7 +5,6 @@ import org.apache.curator.framework.recipes.cache.TreeCacheEvent;
 
 import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 /**
  * 监听触发,回调对应处理方法.

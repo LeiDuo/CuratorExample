@@ -5,6 +5,9 @@ package org.example.constant;
  */
 public class ZKConstant {
 
+    private ZKConstant() {
+    }
+
     // curator client 连接zk的重试间隔时间
     public static final int RETRY_INTERVAL_MS = 500;
 
